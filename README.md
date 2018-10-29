@@ -1,11 +1,14 @@
 # Test-Tools-Research
 
+What is the name of the test tool?
 Hexawise Testing
 Hexawise is a test design tool that can increase the efficiency and effectiveness of your testing. Using applied statistics-based optimization methods that have been refined over more than 40 years, Hexawise automatically generates test conditions to be executed by testers. Hexawise carefully constructs combinations of test conditions to achieve as much coverage as possible in as few tests as possible.
 
+Who developed this test tool?
 Justin Hunter CEO, Founder
 Before founding Hexawise in 2009, Justin worked at Accenture where he led several firm-wide initiatives. He spearheaded the adoption of pair-wise test design approaches that doubled tester productivity. Justin received a CEO award for the initiative’s success. By making it easy for software testers to design efficient and effective software tests, Justin is following in his father's footsteps. Justin's father, Dr. William G. Hunter, was a leading Design of Experiments expert who worked in many industries designing experiments that were scientifically-optimized to maximize the amount of actionable information revealed in each experiment.
 
+Give at least 3 features of this test tool.
 1. How is Hexawise different from other test design tools?
 
 Hexawise focuses on the Test Design phase of software testing. Very few other software tools even include a Test Design function that attempts to help you achieve maximum coverage with a minimum number of Test Cases. As a result, Hexawise is complementary to – not competitive with – almost all other software testing tools. For example, many users export test case conditions from Hexawise and import them into test management tools such as HP Quick Test Pro, HP Quality Center / ALM and IBM Rational tools.
